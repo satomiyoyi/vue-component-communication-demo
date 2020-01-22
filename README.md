@@ -1,5 +1,9 @@
 # vue组件通信方式demo
 
+### 安装依赖
+```
+npm install
+```
 ### 启动服务
 ```
 npm run serve
@@ -17,3 +21,6 @@ $parent $children|$refs
 provide inject  擅长隔代处理  子-》祖先
 
 $listener  $attrs 擅长隔代处理 子-》祖先
+
+### demo
+![image](http://github.com/satomiyoyi/vue-component-communication-demo/vue-communication-demo.png)
