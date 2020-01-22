@@ -23,4 +23,4 @@ provide inject  擅长隔代处理  子-》祖先
 $listener  $attrs 擅长隔代处理 子-》祖先
 
 ### demo
-![image](http://github.com/satomiyoyi/vue-component-communication-demo/vue-communication-demo.png)
+![image](https://github.com/satomiyoyi/vue-component-communication-demo/blob/master/vue-communication-demo.png)
